@@ -8,3 +8,11 @@ Welcome to the Conference Ticket Booking System, a simple and efficient solution
 **Real-time Ticket Availability:** Displays the remaining number of tickets available after each booking, keeping users informed about the current status.
 
 **Infinite Booking Loop:** The system operates in an infinite loop, allowing users to make multiple bookings without restarting the application.
+
+## Usage:
+Run the application
+Follow the on-screen prompts to enter your first name, last name, email, and the number of tickets you require.
+The system will validate your input and display the remaining number of available tickets.
+Repeat the process to make additional bookings.
+
+**Enjoy the conference and happy coding!**
